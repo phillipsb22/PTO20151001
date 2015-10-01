@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PetrolTracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Price_Paid">Price Paid!</string>
+    <string name="action_settings">Settings</string>
+</resources>
